@@ -9,7 +9,7 @@ public:
 
 demo(){
 
-    p = new char[6];
+    //p = new char[6];
     p="hello";
 }
 
